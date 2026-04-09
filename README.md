@@ -30,9 +30,13 @@ $PQTMSAVEPAR*5A
 ## GNSS System Select (কোন স্যাটেলাইট ব্যবহার করবে)
 
 
+
 $PQTMGNSSSELECT,1*hh   // GPS only
+
 $PQTMGNSSSELECT,2*hh   // GLONASS
+
 $PQTMGNSSSELECT,3*hh   // GPS+GLONASS
+
 $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 

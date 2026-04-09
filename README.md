@@ -19,3 +19,10 @@
 <img src="bm.jpg" width="600"/>
 
 ## Trilateration সম্পর্কে জান্তে হবে।
+
+# RTK command
+
+
+$PQTMRESTOREPAR*13
+
+$PQTMSAVEPAR*5A

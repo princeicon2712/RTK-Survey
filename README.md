@@ -41,3 +41,14 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 ## RTCM Output enable (সবচেয়ে গুরুত্বপূর্ণ)
 
+## Survey-in (Auto position)
+
+
+(1) $PQTMSURVEY,1,<time>,<accuracy>*xx
+
+(2) $PQTMSURVEY,1,300,1.0*xx
+
+👉 মানে:
+1 = Start Survey-in
+300 = 300 seconds (5 min)
+1.0 = 1 meter accuracy limit

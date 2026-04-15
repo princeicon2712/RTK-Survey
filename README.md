@@ -27,7 +27,7 @@ $PQTMRESTOREPAR*13
 
 $PQTMSAVEPAR*5A
 
-## GNSS System Select (কোন স্যাটেলাইট ব্যবহার করবে)
+## GNSS System Select (কোন স্যাটেলাইট ব্যবহার করবে) এই সফটওয়্যারে তুমি GNSS module-এ PMTK / PQTM কমান্ড দাও
 
 
 

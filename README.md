@@ -39,5 +39,5 @@ $PQTMGNSSSELECT,3*hh   // GPS+GLONASS
 
 $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
-
+## RTCM Output enable (সবচেয়ে গুরুত্বপূর্ণ)
 

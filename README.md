@@ -10,6 +10,18 @@
 
 ## Surpad 4.2 apk [ মোবাইল দিয়েও প্রেকটিস করা যা]
 
+## 100% $ignal 
+
+GPS (1004, 1077)
+
+GLONASS (1012, 1087)
+
+Galileo (1097)
+
+BeiDou (1127)
+
+SBAS (1107)
+
 
 <!--[profile](./RTK.jpeg)-->
 <img src="RTK.jpeg" width="600"/>

@@ -64,3 +64,6 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 1 = Start Survey-in
 300 = 300 seconds (5 min)
 1.0 = 1 meter accuracy limit
+
+
+## Geolocate

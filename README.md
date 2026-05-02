@@ -65,5 +65,8 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 300 = 300 seconds (5 min)
 1.0 = 1 meter accuracy limit
 
+<!--[profile](./g.jpg)-->
+<img src="g.jpg" width="600"/>
+
 
 ## Geolocate

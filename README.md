@@ -6,6 +6,10 @@
 
 ## সবসময় কন্ট্রোল পয়েন্ট সার্ভে মোডে পয়েন্ট নিতে হবে
 
+## Configuration Methods
+## Configuration Menus
+
+
 ## singularpad   Apk [ সোহেল ভাই মনোয়ার]
 
 ## Surpad 4.2 apk [ মোবাইল দিয়েও প্রেকটিস করা যা]

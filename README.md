@@ -90,6 +90,10 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 (b) exit Bluetooth Echo mode [ অব্যশই বন্দ করতে হবে]
 
+## . ubx file কে RINEX convert 
+
+https://github.com/tomojitakasu/RTKLIB
+
 
 
 

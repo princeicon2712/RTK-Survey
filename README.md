@@ -81,7 +81,7 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 (11) turn off all massage [ অব্যশই বন্দ করতে হবে ]
 
-(12) Reset to ppp Loggine Defoult ( NMEAX5+Rx) [ সব সময়  ppp করার আগে Reset দিতে হবে]
+(12) Reset to ppp Loggine Defoult ( NMEAX5+Rx) [ এটা করলে PPP-এর জন্য দরকারি data configuration default ভাবে সেট হয়।ঠিকভাবে enable হয়, যাতে পরে RINEX বানানো যায় এবং PPP process করতে সুবিধা হয়। 
 
 (x) exit
 

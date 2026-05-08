@@ -74,3 +74,22 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 
 ## Geolocate
+
+## 100% PPP RtK দিয়ে [ সুহেল sir] 
+
+(2) configure GNSS massages
+
+(11) turn off all massage [ অব্যশই বন্দ করতে হবে ]
+
+(12) Reset to ppp Loggine Defoult ( NMEAX5+Rx) [ সব সময়  ppp করার আগে Reset দিতে হবে]
+
+(x) exit
+
+(x) exit
+
+(b) exit Bluetooth Echo mode [ অব্যশই বন্দ করতে হবে]
+
+
+
+
+

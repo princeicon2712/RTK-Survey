@@ -80,7 +80,7 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 (2) configure GNSS massages
 
-(11) turn off all massage [ অব্যশই বন্দ করতে হবে ]
+(11) turn off all massage [ অব্যশই বন্দ করতে হবে ]  এটা করা হয় যাতে GNSS receiver অপ্রয়োজনীয় message পাঠানো বন্ধ করে।
 
 (12) Reset to ppp Loggine Defoult ( NMEAX5+Rx) [ এটা করলে PPP-এর জন্য দরকারি data configuration default ভাবে সেট হয়।ঠিকভাবে enable হয়, যাতে পরে RINEX বানানো যায় এবং PPP process করতে সুবিধা হয়। 
 

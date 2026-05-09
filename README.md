@@ -113,6 +113,27 @@ ppp upload:- https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.ph
 <!--[profile](./B.jpg)-->
 <img src="B.jpg" width="600"/>
 
+## BM Polash
+
+Projected Coordinate (UTM-WGS84)
+
+UTM Zone--- 46R
+
+Easting (m)--- 332121.2744
+
+Northing (m)--- 2779388.7480
+
+
+Geographical Coordinate (WGS84)
+
+Latitude (dd mm--) ss.sssss  250715.8247
+
+Longitude (dd mm--) ss.sssss 912005.5057
+
+Ellipsoid Height (m)---    -41.0652
+
+
+
 
 
 

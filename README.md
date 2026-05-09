@@ -90,6 +90,16 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 
 (b) exit Bluetooth Echo mode [ অব্যশই বন্দ করতে হবে]
 
+## Enable এবং টাইম সেট করতে হবে 
+
+Log to microSD: Enabled
+
+19:50:05.362 2) Set max logging time: 120 minutes
+
+19:50:05.362 3) Set max log length: 120 minutes
+
+19:50:05.372 5) Log Antenna Reference Position from RTCM 1005/1006: Enabled
+
 ## . ubx file কে RINEX convert 
 
 https://github.com/tomojitakasu/RTKLIB

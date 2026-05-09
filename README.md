@@ -110,8 +110,8 @@ sing:- https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/account-compte/login.php
 
 ppp upload:- https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php
 
-<!--[profile](./B.jpeg)-->
-<img src="B.jpeg" width="600"/>
+<!--[profile](./B.jpg)-->
+<img src="B.jpg" width="600"/>
 
 
 

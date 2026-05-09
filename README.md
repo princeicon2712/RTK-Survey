@@ -104,6 +104,12 @@ Log to microSD: Enabled
 
 https://github.com/tomojitakasu/RTKLIB
 
+## PPP upload file .obs 
+
+sing:- https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/account-compte/login.php
+
+ppp upload:- https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php
+
 
 
 

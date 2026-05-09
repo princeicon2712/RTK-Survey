@@ -76,6 +76,7 @@ $PQTMGNSSSELECT,7*hh   // All (GPS+GLONASS+BeiDou+Galileo)
 ## Geolocate
 
 ## 100% PPP RtK দিয়ে [ সুহেল sir] 
+## NMEA Sentence to ppp
 ##. ubx file এর ভিতরে Rxm raw data থাকে এবং RXM raw measurement (PPP/PPK-এর জন্য গুরুত্বপূর্ণ)
 
 (2) configure GNSS massages

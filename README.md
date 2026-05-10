@@ -135,6 +135,7 @@ Ellipsoid Height (m)---    -41.0652
 
 ## base 100% custer 
 -------- Configure Base----
+
 7) Toggle NTRIP Server: Enabled
 8) Select NTRIP server index: 1
 9) Set Caster Host / Address 1: caster.rtkbd.com
@@ -154,11 +155,13 @@ RTKBD-JAHID
 
 
 _-------------------(6) Configure WiFi---------
+
 Configure device via WiFi Access Point or connect to WiFi: WiFi [ wifi রাখতে হবে]
 12:55:43.496 c) Captive Portal: Enabled
 12:55:43.496 m) MDNS: Enabled
 
 ---------------(1) Configure GNSS Receiver----
+
 3) Set dynamic model: Stationary [ Stationary করতে হবে অন্য কিছু থাকতে পারে]
 ৩ এর বিতরে 2) Stationary করে রাখতে হবে
 

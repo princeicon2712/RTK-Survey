@@ -133,6 +133,35 @@ Longitude (dd mm--) ss.sssss 912005.5057
 
 Ellipsoid Height (m)---    -41.0652
 
+## base 100% custer 
+-------- Configure Base----
+7) Toggle NTRIP Server: Enabled
+8) Select NTRIP server index: 1
+9) Set Caster Host / Address 1: caster.rtkbd.com
+10) Set Caster Port 1: 2101
+ 11) Set Caster User 1: jahid
+12) Set Caster User PW 1: 
+13) Set Mountpoint 1:
+RTKBD-JAHID
+14) Set Mountpoint PW 1: 1234
+15) Set RTCM Message Rates
+16) Select survey-in radio: WiFi
+----------------------_--------------------------
+3) Reset to Low Bandwidth Link (1074/84/94/124 0.5Hz & 1005/230 0.1Hz) [ reset করতে হবে ]
+
+ 16) Select survey-in radio: WiFi { এখানে wifi রাখতে হবে ]
+
+
+
+_-------------------(6) Configure WiFi---------
+Configure device via WiFi Access Point or connect to WiFi: WiFi [ wifi রাখতে হবে]
+12:55:43.496 c) Captive Portal: Enabled
+12:55:43.496 m) MDNS: Enabled
+
+---------------(1) Configure GNSS Receiver----
+3) Set dynamic model: Stationary [ Stationary করতে হবে অন্য কিছু থাকতে পারে]
+৩ এর বিতরে 2) Stationary করে রাখতে হবে
+
 
 
 

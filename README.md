@@ -168,5 +168,15 @@ Configure device via WiFi Access Point or connect to WiFi: WiFi [ wifi রাখ
 
 
 
+Caster Account Details:
 
+host: caster.rtkbd.com
+
+port: 2101
+
+user: rezaul
+
+password: 1234
+
+Mountpoint: RTKBD-REZAUL
 

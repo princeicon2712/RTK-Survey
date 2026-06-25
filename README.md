@@ -127,9 +127,9 @@ Northing (m)--- 2779388.7480
 
 Geographical Coordinate (WGS84)
 
-Latitude (dd mm--) ss.sssss  250715.8247
+Latitude ----- 250715.8247
 
-Longitude (dd mm--) ss.sssss 912005.5057
+Longitude ---- 912005.5057
 
 Ellipsoid Height (m)---    -41.0652
 

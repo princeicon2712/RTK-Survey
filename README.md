@@ -192,3 +192,9 @@ $PQTMSAVEPAR*5A
 $PQTMSRR*4B
 
 
+# RTK Pole Hight
+
+5'-8.50--- 1.7399
+
+6'-10.50---  2.0955
+

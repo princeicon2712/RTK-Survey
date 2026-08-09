@@ -198,3 +198,9 @@ $PQTMSRR*4B
 
 6'-10.50---  2.0955
 
+## Short cut
+
+<!--[profile](./s.jpg)-->
+<img src="s.jpg" width="600"/>
+
+

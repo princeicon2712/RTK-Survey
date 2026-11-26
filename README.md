@@ -181,15 +181,21 @@ password: 1234
 Mountpoint: RTKBD-REZAUL
 
 ## [5/24, 2:26 PM] RTK Vaiya monuar suhel: বেস মোড
-$PQTMCFGRCVRMODE,W,2*29
-$PQTMSAVEPAR*5A
-$PQTMSRR*4B
+
+$PQTMCFGRCVRMODE,W,2*29 -- base
+
+$PQTMSAVEPAR*5A -- save
+
+$PQTMSRR*4B -- reboot
+
 $PQTMCFGSVIN,W,2,0,0,<ECEF_X>,<ECEF_Y>,<ECEF_Z>cksum
 
 ## [5/24, 2:27 PM] RTK Vaiya monuar suhel: রোভার মোড
-$PQTMCFGRCVRMODE,W,1*2A
-$PQTMSAVEPAR*5A
-$PQTMSRR*4B
+$PQTMCFGRCVRMODE,W,1*2A -- rover
+
+$PQTMSAVEPAR*5A --save
+
+$PQTMSRR*4B -- reboot
 
 
 # RTK Pole Hight
